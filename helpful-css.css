@@ -36,3 +36,31 @@
 .btn-group button:hover {
   background-color: #3e8e41;
 }
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn{
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+img.resize {
+    width: 100%;
+    height: auto;
+}
