@@ -1,1 +1,1 @@
-# hoster
+# host
