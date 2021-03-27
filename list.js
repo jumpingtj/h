@@ -1,4 +1,4 @@
-function create(p, id) {
+export function create(p, id) {
     for (i in p) {
         var aEl = document.createElement("a");
         aEl.href = p[i]
